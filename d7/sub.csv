@@ -1,0 +1,11 @@
+id,full_name,age,gender,device_type,ad_position,browsing_history,time_of_day,click
+670,User670,22.0,,Desktop,Top,Shopping,Afternoon,1
+3044,User3044,,Male,Desktop,Top,,,1
+5912,User5912,41.0,Non-Binary,,Side,Education,Night,1
+5418,User5418,34.0,Male,,,Entertainment,Evening,1
+9452,User9452,39.0,Non-Binary,,,Social Media,Morning,0
+5942,User5942,,Non-Binary,,Bottom,Social Media,Evening,1
+7808,User7808,26.0,Female,Desktop,Top,,,1
+5065,User5065,40.0,Male,Mobile,Side,,Evening,0
+7993,User7993,,Non-Binary,Mobile,Bottom,Social Media,,1
+4509,User4509,,,,Bottom,Education,Afternoon,1
